@@ -1,8 +1,8 @@
 ## question 1
-./analyst_question1.ipynb
+[analyst_question1](./analyst_question1.ipynb)
 
 ## question 2
-./analyst_question2.ipynb
+[analyst_question2](./analyst_question2.ipynb)
 
 ## question 3
 
