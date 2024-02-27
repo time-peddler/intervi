@@ -35,9 +35,9 @@ print(top3_words)
 
 ## question 5
 
-##### ANSWER:
-regex_pattern = None
-尝试了很多办法，确实不会。
+```python3
+regex_pattern = "[a-zA-Z\d_]{6,9}"
+```
 
 ## question 6
 
